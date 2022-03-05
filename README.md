@@ -1,6 +1,6 @@
 # Psychin' Out boot camp 2022 syllabus
 
-**The content should primarily be accessed from our new ebook resource: XXXXX**
+**The content should primarily be accessed from our ebook resource: [Psychin Out BootCamp](https://kiante-fernandez.github.io/PsychinOut_BootCamp/docs/index.html)**
 
 **Objectives**: If psychological research is to make an impact on society, it requires an invested effort in making the teaching, training, and development of quantitative training more accessible to underrepresented students. For the community, by the community, the Psychin’ Out programming and statistics book camp aims to offer training to aspiring and current psychology students and trainees. This course offers a pragmatic exercise driven guide to developing the quantitative skills necessary to succeed in psychological research. A main focus is on learning to learn, basic programming skills, practical statistic training and understanding how they all relate to psychological questions.
 
