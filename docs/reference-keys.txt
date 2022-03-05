@@ -1,4 +1,4 @@
-welcome
+welcome-to-the-psychin-out-resource-page
 introduction-to-r
 working-with-data
 pragmatic-statistical-theory

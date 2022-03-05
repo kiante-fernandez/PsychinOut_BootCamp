@@ -36,16 +36,15 @@
 
 # Daily schedule
 
-EXAMPLE: All days will follow this schedule for course time:
+EXAMPLE: intensive days will follow this schedule for course time:
 
 |    Time (Hour)   |    Lecture                            |
 |------------------|---------------------------------------|
 |    0:00-0:30\*   |    Intro video & text   |   
-|    **0:30**-0:45**     |    Pod discussion I                   |                                      
+|    **0:30**-0:45**     |   discussion I                   |                                      
 |    0:45-2:15     |    Tutorials + nano-lectures I        |    
 |    2:15-3:15     |    Big break                 |    
-|    3:15-4:45     |    Tutorials + nano-lectures II      |   
-|    4:45-4:55    |    Pod dicussion II       |    
+|    4:45-4:55    |     dicussion II       |    
 |    4:55-5:00    |    Reflections & content checks               |    
 |    5:05-5:35\*     |    Outro                              |
 
