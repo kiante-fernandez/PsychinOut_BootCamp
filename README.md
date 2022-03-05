@@ -16,7 +16,7 @@
 * Week 1 (Welcome)
     * DAY, Month XXth: 
     * DAY, Month XXth: 
-    * DAY, Month XXth:
+    * DAY, Month XXth: data ethics
     * DAY, Month XXth: 
 
 * Week 2 (Intro to R Programming and Working with data)
@@ -42,8 +42,8 @@ EXAMPLE: intensive days will follow this schedule for course time:
 |------------------|---------------------------------------|
 |    0:00-0:30\*   |    Intro video & text   |   
 |    **0:30**-0:45**     |   discussion I                   |                                      
-|    0:45-2:15     |    Tutorials + nano-lectures I        |    
-|    2:15-3:15     |    Big break                 |    
+|    0:45-2:15     |    Tutorials  I        |    
+|    2:15-3:15     |     break                 |    
 |    4:45-4:55    |     dicussion II       |    
 |    4:55-5:00    |    Reflections & content checks               |    
 |    5:05-5:35\*     |    Outro                              |
