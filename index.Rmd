@@ -7,4 +7,4 @@ site: bookdown::bookdown_site
 
 # Welcome to the Psychin' Out resource page!
 
-![](psychin_out_color_black.jpeg)
+[![](psychin_out_color_black.jpeg)](https://kiante-fernandez.github.io/PsychinOut_BootCamp/)
