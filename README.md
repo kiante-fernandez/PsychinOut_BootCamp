@@ -50,7 +50,6 @@ EXAMPLE: All days will follow this schedule for course time:
 |    5:05-5:35\*     |    Outro                              |
 
 
-
 ## Licensing
 
 [![CC BY 4.0][cc-by-image]][cc-by]
@@ -64,3 +63,6 @@ Derivative works may use the license that is more appropriate to the relevant co
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
+This repo was initially generated from a bookdown template available here: https://github.com/jtr13/bookdown-template.
